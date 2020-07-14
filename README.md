@@ -1,7 +1,7 @@
 ![Data](https://user-images.githubusercontent.com/56272232/87437156-547d9680-c5c4-11ea-9cb4-d3baa1ffd4ff.gif)
 # Eric-BR2001 – @Eric-BR2001
 
-Hello. I'm Eric, I'm a generalist Developer currently working with RPA and OCR, here in beautiful São José Dos Campos, Brazil. I also have a lot of hobby like doing 3d model as you guys can see, i also have a hobby that is learning a new language so basically this is how i learned russian. I'm a huge nerd/geek and RPG player.
+Hello. I'm Eric, I'm a generalist Developer currently working with RPA and OCR, here in beautiful São José Dos Campos, Brazil. I also have a hobby that is learning a new language so basically this is how i learned russian. I'm a huge nerd/geek and RPG player.
 
 ## 👨‍💻 Software that I work/worked on:
 
