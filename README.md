@@ -8,7 +8,7 @@ Hello. I'm Eric, I'm a generalist Developer currently working with RPA and OCR, 
 * :white_check_mark: [UiPath](https://www.uipath.com/): A plataform that allows me to automate processes.
 * :white_check_mark: [AutomationAnyWhere](https://www.automationanywhere.com/): A plataform that allows me to automate processes.
 * :white_check_mark: [ABBYY](https://www.abbyy.com/): A plataform that allows me to extract data from a document.
-* :white_check_markd:[Twitter](https://developer.twitter.com/en/docs): An API for Analyzing Tweets to Collect Feedback
+* :white_check_mark:[Twitter](https://developer.twitter.com/en/docs): An API for Analyzing Tweets to Collect Feedback
 
 ## :coffee: Let's Talk !
 
