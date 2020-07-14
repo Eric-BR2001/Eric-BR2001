@@ -1,16 +1,21 @@
-### Hi there 👋
+![Data](https://user-images.githubusercontent.com/56272232/87437156-547d9680-c5c4-11ea-9cb4-d3baa1ffd4ff.gif)
+# Eric-BR2001 – @Eric-BR2001
 
-<!--
-**Eric-BR2001/Eric-BR2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello. I'm Eric, I'm a generalist Developer currently working with RPA and OCR, here in beautiful São José Dos Campos, Brazil. I also have a lot of hobby like doing 3d model as you guys can see, i also have a hobby that is learning a new language so basically this is how i learned russian. I'm a huge nerd/geek and RPG player.
 
-Here are some ideas to get you started:
+## 👨‍💻 Software that I work/worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* :white_check_mark: [UiPath](https://www.uipath.com/): A plataform that allows me to automate processes.
+* :white_check_mark: [AutomationAnyWhere](https://www.automationanywhere.com/): A plataform that allows me to automate processes.
+* :white_check_mark: [ABBYY](https://www.abbyy.com/): A plataform that allows me to extract data from a document.
+* :white_check_markd:[Twitter](https://developer.twitter.com/en/docs): An API for Analyzing Tweets to Collect Feedback
+
+## :coffee: Let's Talk !
+
+**Software things:** I'm interested in RPA, Big Data, API, Python and R.
+
+**Other things:** I'm interested in productivity, strategy games(Total War is my favorite) and DC Comics
+
+## :telescope: Find me online
+
+**Linkedin:** https://www.linkedin.com/in/eric-dias-souza-6440a7142/
