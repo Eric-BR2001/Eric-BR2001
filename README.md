@@ -1,7 +1,6 @@
-![Data](https://user-images.githubusercontent.com/56272232/87437156-547d9680-c5c4-11ea-9cb4-d3baa1ffd4ff.gif)
 # Eric Dias Souza – @Eric-BR2001
 
-Hello. I'm Eric, I'm a generalist Developer currently working with RPA and OCR, here in beautiful São José Dos Campos, Brazil. I also have a hobby that is learning a new language so basically this is how i learned russian. I'm a huge nerd/geek and RPG player.
+Hello. I'm Eric, I'm a generalist Developer currently working with RPA and OCR, here in beautiful São José Dos Campos, Brazil. I also have a hobby that is learning a new language so basically this is how i learned russian and germany. I'm a huge nerd/geek and RPG player.
 
 ## 👨‍💻 Software that I work/worked on:
 
@@ -20,3 +19,4 @@ Hello. I'm Eric, I'm a generalist Developer currently working with RPA and OCR, 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-dias-souza-6440a7142/)](https://www.linkedin.com/in/eric-dias-souza-6440a7142/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eric._souza01/)](https://www.instagram.com/eric._souza01/)
+[![DuoLingo Badge](https://img.shields.io/badge/-DuoLingo-green??style=flat-square&logo=DuoLingo&logoColoar=white&link=https://www.duolingo.com/profile/EricDiasSo1)](https://www.duolingo.com/profile/EricDiasSo1)
