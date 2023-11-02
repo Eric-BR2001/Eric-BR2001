@@ -1,15 +1,13 @@
 # Eric Dias Souza <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  <img align='right' src="https://user-images.githubusercontent.com/56272232/128797350-93fc45b9-a86a-4b8c-b4b8-20669d93c969.gif" width="145">
-Hello. I'm Eric, I'm a generalist Developer currently working with RPA and OCR, here in beautiful São José Dos Campos, Brazil. I'm a huge nerd/geek and RPG player. 
-
-
-
+Hello There. 
 
 👨‍💻 Software that I work/worked on:
-* :white_check_mark: [UiPath](https://www.uipath.com/): A plataform that allows me to automate processes.
-* :white_check_mark: [AutomationAnyWhere](https://www.automationanywhere.com/): A plataform that allows me to automate processes.
-*  :white_check_mark: [BluePrism](https://www.blueprism.com/?selected-locale=%E2%9C%93): A plataform that allows me to automate processes.
-* :white_check_mark: [ABBYY](https://www.abbyy.com/): A plataform that allows me to extract data from a document.
-* :white_check_mark: [Power BI](https://powerbi.microsoft.com/en-us/): A plataform that allows me to view datas.
+* :white_check_mark: UiPath
+* :white_check_mark: AutomationAnyWhere
+* :white_check_mark: ABBYY
+* :white_check_mark: Power BI
+* :white_check_mark: Unity 3D 
+* :white_check_mark: Unity 2D
 ---
 
 **Software things:** 
